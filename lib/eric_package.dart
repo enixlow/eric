@@ -1,11 +1,11 @@
-library eric_package;
+library test_firebase_plugin;
 // import 'package:meta/meta.dart';
 // import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:eric_package/device_manager.dart';
-import 'package:eric_package/firebase_manager.dart';
-import 'package:eric_package/test_callback.dart';
-import 'package:eric_package/user_manager.dart';
+import 'package:test_firebase_plugin/device_manager.dart';
+import 'package:test_firebase_plugin/firebase_manager.dart';
+import 'package:test_firebase_plugin/test_callback.dart';
+import 'package:test_firebase_plugin/user_manager.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:geolocator/geolocator.dart';
 

@@ -1,4 +1,4 @@
-# eric_package
+# test_firebase_plugin
 
 A new Flutter package project.
 
